@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Akten</h1>
 <h3 align="center">A passionatea and enthusiast software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Web Programmming**
+- 🌱 I’m currently learning **Software Applications of Robotics** and **Data Science Applications**
 
 - 📫 How to reach me **aktenabdulkerim@gmail.com**
 
