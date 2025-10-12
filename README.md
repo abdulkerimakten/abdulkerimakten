@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkerim Akten</h1>
 <h3 align="center">A passionate and enthusiast software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **ROS2 (Robot Operating System)**
 
 - 📫 How to reach me **aktenabdulkerim@gmail.com**
 
