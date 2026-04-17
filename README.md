@@ -10,7 +10,7 @@
 - 🤝 **I’m looking to collaborate on:** Open-source projects, system architecture, and Python development.
 - 💬 **Ask me about:** ROS 2 setups, hardware integration (like Orange Cube autopilots), Protobuf vs JSON performance, or Linux environments!
 - 📫 **How to reach me:** **aktenabdulkerim@gmail.com**
-- ⚡ **Fun fact:** I'm a patient and extroverted team player. When I'm not debugging complex systems, I spend my time organizing volunteer social support activities at a local nursing home.
+- ⚡ **Fun fact:** I'm a patient and extroverted team player. When I'm not debugging complex systems, I spend my time in our robotic club with mates.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
