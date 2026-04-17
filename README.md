@@ -5,7 +5,7 @@
   I'm a passionate Information Systems Engineer specializing in software development, system architecture, and optimizing data communication. I enjoy solving complex problems, exploring broad software concepts, and building efficient, scalable systems.
 </p>
 
-- 🔭 **I’m currently working on:** My graduation thesis on **Protobuf-based data serialization optimization** and autonomous systems for the **Roboboat** competition.
+- 🔭 **I’m currently working on:** My graduation thesis on **Protobuf-based data serialization optimization** and autonomous systems for the **Autonomous Sea Vehicles**.
 - 🌱 **I’m currently deep diving into:** Core software engineering concepts, system design, backend development principles, and **Docker** containerization.
 - 🤝 **I’m looking to collaborate on:** Open-source software projects, system architecture, and Python development.
 - 💬 **Ask me about:** Software design patterns, Protobuf vs JSON performance, Linux environments, or my robotics projects!
