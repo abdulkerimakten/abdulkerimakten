@@ -8,7 +8,7 @@
 - 🔭 **I’m currently working on:** My graduation thesis on **Protobuf-based data serialization optimization** and autonomous systems for the **Autonomous Sea Vehicles**.
 - 🌱 **I’m currently deep diving into:** Core software engineering concepts, system design, backend development principles, and **Docker** containerization.
 - 🤝 **I’m looking to collaborate on:** Open-source software projects, system architecture, and Python development.
-- 💬 **Ask me about:** Software design patterns, Protobuf vs JSON performance, Linux environments, or my robotics projects!
+- 💬 **Ask me about:** Software design patterns, Linux environments, or my robotics projects!
 - 📫 **How to reach me:** **aktenabdulkerim@gmail.com**
 - ⚡ **Fun fact:** I'm a patient and extroverted team player. When I'm not writing code, I spend my time at robotic workshop with mates.
 
